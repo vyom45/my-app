@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+.meesho-h1{
+    color: rgb(87,13,72);
+    font-size: 2.5rem;
+    font-weight: 600; 
+}
+.icon-image{ 
+  border: 1px solid rgb(87,13,72);
+  
+}

@@ -1,0 +1,57 @@
+
+.first-content{
+   
+    background-color: rgb(248, 248, 255);
+}
+.playstore{
+   background-color: rgb(159,32,137); 
+}
+.middle-content{
+    color: rgb(159,32,137);
+    font-weight: 600;
+}
+.poster-2{
+    /* margin-left: 5%; */
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+    /*position: absolute;
+    z-index: -1; */
+    height: 546px;
+    width: 1100px;
+    background-image: url("https://images.meesho.com/images/marketing/1704720332049_1200.webp");
+}
+.poster-3{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    /*position: absolute;
+    z-index: -1; */
+    margin-top: 5%;
+    /* margin-left: 2%; */
+    height: 546px;
+    width: 1100px;
+    background-image: url("https://images.meesho.com/images/marketing/1704720392370_1200.webp");
+}
+.poster-4{
+     display: flex;
+     justify-content: end;
+     align-items: start;
+    /*position: absolute;
+    z-index: -1; */
+    margin-top: 5%;
+    height: 546px;
+    width: 1100px;
+    background-image: url("https://images.meesho.com/images/pow/downloadBannerDesktop_1050.webp");
+}
+.poster-5{
+    display: flex;
+    padding: 40px 60px;
+    /*position: absolute;
+    z-index: -1; */
+    margin-top: 4%;
+    height: 289px;
+    width: 1100px;
+    background-image: url("https://images.meesho.com/images/pow/supplyBannerDesktop_1106.webp");
+
+}
